@@ -95,18 +95,18 @@ h1 {
   font-size: 1.02rem;
 }
 
-.project-meta {
-  margin: 0 0 10px;
-  font-size: 0.72rem;
-  color: #999;
-}
-
-
 .project p {
   margin: 0;
   line-height: 1.55;
   font-size: 0.88rem;   /* smaller text */
   color: #444;
+}
+
+.project-meta {
+  margin: 0 0 10px;
+  font-size: 0.72rem;
+  color: #999;
+  letter-spacing: 0.01em; /* optional but pretty */
 }
 
 .project a {
