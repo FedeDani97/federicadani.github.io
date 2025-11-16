@@ -130,6 +130,7 @@ h1 {
 
 .project p {
   margin: 0;
+  margin-bottom: 28px;
   line-height: 1.55;
   font-size: 0.88rem;
   color: var(--soft-text);
@@ -140,6 +141,7 @@ h1 {
   opacity: 0.7;           /* softer */
   color: var(--meta-text);
   margin: 0 0 10px;
+  margin-top: 6px;
 }
 
 .project a {
